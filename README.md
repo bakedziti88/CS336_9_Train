@@ -8,12 +8,13 @@ The website created here simulates a train reservation system, with similar data
 
 This was a group project, and the original repository can be found at the forked repository link: https://github.com/maicodes/CS336_9_Train
 
-## Demo
+## Demos
 
 There is a good chance that the link above does not work, because the course this website was developed for has expired. Thus, the GIF below is only a small preview of the functionality of the site.
 
 <img src = "https://media.giphy.com/media/SYpWMrh3FbPm0xdCvG/giphy.gif">
 
+<img src = "https://media.giphy.com/media/SWjQSTuP6M2Bwmnm5Y/giphy.gif">
 ## Features
 
 * Customer log in / account creation
