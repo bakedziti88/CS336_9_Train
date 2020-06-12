@@ -15,6 +15,7 @@ There is a good chance that the link above does not work, because the course thi
 <img src = "https://media.giphy.com/media/SYpWMrh3FbPm0xdCvG/giphy.gif">
 
 <img src = "https://media.giphy.com/media/SWjQSTuP6M2Bwmnm5Y/giphy.gif">
+
 ## Features
 
 * Customer log in / account creation
